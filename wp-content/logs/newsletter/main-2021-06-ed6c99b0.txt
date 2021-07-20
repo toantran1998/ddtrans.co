@@ -1,0 +1,2 @@
+14-06-2021 09:01:53 - ERROR - v: 7.1.5 - m: 11.8 MB, u: 0 - Blocked by transient newsletter_main_engine set 0 seconds ago by /var/www/html/wordpress/;host1618365079-71841
+22-06-2021 17:23:32 - ERROR - v: 7.1.5 - m: 11.8 MB, u: 0 - Blocked by transient newsletter_main_engine set 0 seconds ago by /var/www/html/wordpress/;host1618365079-71841

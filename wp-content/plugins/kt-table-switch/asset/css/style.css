@@ -1,0 +1,35 @@
+.kt-tabs > .kt-tabs-control {
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+}
+
+.kt-tabs > .kt-tabs-control > li {
+    margin-right: 3px;
+
+    color: black;
+    background-color: #f8f8f8;
+    cursor: pointer;
+
+    border: 1px solid #e3e3e3;
+    border-radius: 5px;
+}
+
+.kt-tabs > .kt-tabs-control > li:hover {
+    background-color: #dcdcdc;
+    transition: background-color 0.3s ease;
+}
+
+.kt-tabs > .kt-tabs-control > li.is-active {
+    background-color: #dcdcdc;
+}
+
+.kt-tabs > .kt-tabs-control > li > span {
+    display: block;
+    padding: 10px;
+}
+
+.kt-tabs > .kt-tab-content {
+    overflow-x: scroll;
+}
+
